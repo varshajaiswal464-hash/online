@@ -13,3 +13,18 @@ Overall, this project shows how to build a basic music website with artist selec
 # DFD:-
 (DFD.png)
 # Running Projrct Screenshot
+(home.png)
+(admin.png)
+(play.png)
+# Future Enhancement:-
+Add search option to find songs or artists quickly
+Add login/signup system for users
+Create user playlists (users can save their favorite songs)
+Add like and favorite button for songs
+Add audio controls (pause, next, previous, volume control)
+Add download option for songs (if allowed)
+# Refrences:-
+Canva- used for designing DFD.
+Youtube tutorials- for project guidance
+
+
