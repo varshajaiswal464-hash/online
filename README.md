@@ -13,8 +13,8 @@ Overall, this project shows how to build a basic music website with artist selec
 # DFD:-
 ![image alt](https://github.com/varshajaiswal464-hash/online/blob/792d7bc563b2727f064632aa867a38e7f034a5c3/DFD.png)
 # Running Project Screenshot
-(home.png)
-(admin.png)
+![image alt] (https://github.com/varshajaiswal464-hash/online/blob/5a4210da2a49f228795d3dbc4a3d260953789724/home.png)
+
 (play.png)
 # Future Enhancement:-
 ### Add search option to find songs or artists quickly
