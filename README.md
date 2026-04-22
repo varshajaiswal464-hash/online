@@ -11,7 +11,7 @@ Overall, this project shows how to build a basic music website with artist selec
 #### Server Side Script:- PHP
 ##### Client Side Script:-Java Script,Angular JS
 # DFD:-
-(DFD.png)
+![image alt](https://github.com/varshajaiswal464-hash/online/blob/792d7bc563b2727f064632aa867a38e7f034a5c3/DFD.png)
 # Running Project Screenshot
 (home.png)
 (admin.png)
