@@ -15,7 +15,7 @@ Overall, this project shows how to build a basic music website with artist selec
 # Running Project Screenshot
 ![image alt](https://github.com/varshajaiswal464-hash/online/blob/5a4210da2a49f228795d3dbc4a3d260953789724/home.png)
 ![image alt](https://github.com/varshajaiswal464-hash/online/blob/1ccb1330b607d4d9041f30b79ed732f9aef56d3f/admin.png)
-(play.png)
+![image alt](https://github.com/varshajaiswal464-hash/online/blob/f9fc61b1d487a4df30553b0ea0427ffb3a86c57b/play.png)
 # Future Enhancement:-
 ### Add search option to find songs or artists quickly
 ### Add login/signup system for users
