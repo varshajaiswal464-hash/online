@@ -47,7 +47,7 @@
 - 🖼️ m6.jpg  
 - 🖼️ m7.jpg  
 - 🖼️ play.png  
-- 🎵 terah_zikr.mp3  
+- 🎵 tera_zikr.mp3  
 - 🎵 teri.mp3  
 - 🎵 aseel.mp3
 - ## 📊 DFD:-
